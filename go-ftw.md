@@ -59,7 +59,7 @@ extensions:
 
 # What is Go?
 
-- Go is a statically typed and compiled language designed @Google by Robert Griesemer, Rob Pike, and Ken Thompson in 2007.
+- Go is an imperative, statically typed and compiled language designed @Google by Robert Griesemer, Rob Pike, and Ken Thompson in 2007.
 
 
 - It is a **concurrent, garbage-collected, and memory-safe** language. It is designed to be **fast** and **memory-efficient**.
